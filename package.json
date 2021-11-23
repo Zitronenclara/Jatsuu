@@ -1,0 +1,24 @@
+{
+  "name": "jatsuu",
+  "version": "1.0.0",
+  "description": "A basic discord bot for learning japanese",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zitronenclara/Jatsuu.git"
+  },
+  "author": "Clara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zitronenclara/Jatsuu/issues"
+  },
+  "homepage": "https://github.com/Zitronenclara/Jatsuu#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "mongoose": "^6.0.13",
+    "object-hash": "^2.2.0"
+  }
+}
